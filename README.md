@@ -1,0 +1,1 @@
+Civilian and Law Enforcement menu for FiveM. For this to function on your server, native.ui is required and you must go through the files and change the spawncodes or anything I have instructed y'all to change, By default, the LEO menu doens't come unlocked therefore, you must open it with /unlockleomenu. Enjoy the script 
